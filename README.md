@@ -7,3 +7,5 @@ Measuring 'Connective Passing' Using Publicly Available Tracking Data.
 4. Used Python libraries Seaborn and Matplotlib to create scatterplot plotting 'Assist %' against 'Time of Possession'. 
 5. Used Python's NumPy library to generate and plot line of best fit -- meant to denote 'average' connective passing ability.
 6. Touched-up in Canva for user-friendliness.
+
+![Kings' Connective Passing](KingsConnectivePassing.png)
