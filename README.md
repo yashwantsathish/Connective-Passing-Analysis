@@ -1,4 +1,4 @@
-# Connective-Passing-Analysis
+# Connective Passing Analysis
 Measuring 'Connective Passing' Using Publicly Available Tracking Data.
 
 1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com.
