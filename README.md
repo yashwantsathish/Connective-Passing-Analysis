@@ -1,7 +1,7 @@
 # Connective Passing Analysis
 Measuring 'Connective Passing' Using Publicly Available Tracking Data. 
 
-[Code (click here))](https://github.com/yashwantsathish/Connective-Passing-Analysis/blob/main/ConnectivePassingAnalysis.ipynb)
+[Code (click here)](https://github.com/yashwantsathish/Connective-Passing-Analysis/blob/main/ConnectivePassingAnalysis.ipynb)
 
 Methodology:
 1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com.
