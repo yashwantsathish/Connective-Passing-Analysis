@@ -1,6 +1,9 @@
 # Connective Passing Analysis
-Measuring 'Connective Passing' Using Publicly Available Tracking Data.
+Measuring 'Connective Passing' Using Publicly Available Tracking Data. 
 
+[Code](http://www.google.com)
+
+Methodology:
 1. Pulled/Scraped 600+ data values from stats.nba.com API (using py_ball python wrapper) and basketball-reference.com.
 2. Imported data into Python as Pandas DataFrames and cleaned data to remove errors, duplicates, and irrelevant values.
 3. Merged dataframes by player name using Pandas functionality.
