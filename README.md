@@ -1,5 +1,5 @@
 # Connective Passing Analysis
-Measuring 'Connective Passing' Using Publicly Available Tracking Data. 
+Measuring 'Connective Passing' Ability Using Publicly Available Tracking Data. 
 
 [Code (click here)](https://github.com/yashwantsathish/Connective-Passing-Analysis/blob/main/ConnectivePassingAnalysis.ipynb)
 
