@@ -1,5 +1,5 @@
 # Connective Passing Analysis
-Quantifying 'Connective Passing' Ability Using Publicly Available Tracking Data to Explain the Success of the Sacramento Kings' Offensive System.
+Quantifying 'Connective Passing' Ability Using Tracking Data to Explain the Success of the Sacramento Kings' Offensive System.
 
 [Code (click here)](https://github.com/yashwantsathish/Connective-Passing-Analysis/blob/main/ConnectivePassingAnalysis.ipynb)
 
